@@ -45,24 +45,6 @@ The **Automatic Health Monitoring System** is designed to assist patients, parti
     - `P002_report.txt`
   - Each report includes the patient's ID, name, age, gender, current diagnosis, and visit history.
 
-## Requirements
 
-- **Java**: Make sure you have Java installed to run the program.
 
-## Installation
-
-1. **Clone the Repository**:
-   - Clone the repository to your local machine.
-
-2. **Compile and Run**:
-   - Navigate to the project directory.
-   - Compile the Java files using `javac Main.java`.
-   - Run the program using `java Main`.
-
-## Future Enhancements
-
-- **Database Integration**: Store patient records in a database for scalability and advanced querying.
-- **User Authentication**: Implement user roles and authentication for secure access.
-- **Graphical User Interface (GUI)**: Develop a user-friendly interface to improve usability.
-- **Additional Health Metrics**: Include more comprehensive health data, such as lab results and prescriptions.
 
